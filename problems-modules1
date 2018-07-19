@@ -1,0 +1,2 @@
+import random
+print("guess a number between 1,10")
